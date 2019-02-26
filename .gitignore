@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+.idea/
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# mac os
+.DS_Store
